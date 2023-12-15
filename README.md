@@ -28,6 +28,7 @@ outputs New_Die_A = [?, ?, ?, ?, ?, ?],New_Die_B = [?, ?,
 ?, ?, ?, ?] where,
 ● No New_Die A[x] > 4
 
-![Screenshot 2023-12-13 211947](https://github.com/keerthi902/keerthi/assets/105222592/68b7b275-f3dc-451d-b2a6-95f10606f7ca)
+![Screenshot 2023-12-15 081359](https://github.com/keerthi902/keerthi/assets/105222592/186eae65-ccb5-479e-a5f8-151799d80c8c)
+![Screenshot 2023-12-15 081431](https://github.com/keerthi902/keerthi/assets/105222592/b27a1d94-01c9-4a15-93b8-a033372a714a)
 
 
